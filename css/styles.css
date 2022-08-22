@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero-section{
+    width: 100%;
+    height:268px;
+    background-color:#000;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.card{
+    width:100%;
+    border: 1px solid gray;
+    border-radius:5px;
+    
+}
+.card img{
+    width: 100%;
+    height: 200px;
+}
+
+
+
